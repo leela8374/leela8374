@@ -9,11 +9,7 @@
 
 ## 🌊 Hey there, I'm Kurmapu Leelamohan!
 
-<div align="center">
 
-![Wave](https://media.giphy.com/media/hvRJCLFzcasrng815/giphy.gif)
-
-</div>
 
 ---
 
@@ -76,10 +72,7 @@ I'm a passionate Full Stack Developer with expertise in **Generative AI** and **
 
 <div align="center">
 
-[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge)](https://youtube.com/@leela8374)
-[![Medium](https://img.shields.io/badge/-Medium-000000?logo=medium&logoColor=white&style=for-the-badge)](https://medium.com/@leelamohan)
-[![Instagram](https://img.shields.io/badge/-Instagram-E1306C?logo=instagram&logoColor=white&style=for-the-badge)](https://instagram.com/leela8374)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/leelamohan)
+
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?logo=react&logoColor=white&style=for-the-badge)](https://leelamohan-portfolio.web.app/)
 
 </div>
