@@ -21,7 +21,7 @@
 
 I'm a passionate Full Stack Developer with expertise in **Generative AI** and **AWS Cloud**. I love building scalable applications and creating innovative solutions that solve real-world problems.
 
-🎥 **Content Creator** - Sharing knowledge on [YouTube](https://youtube.com), [Medium](https://medium.com), and [Instagram](https://instagram.com)
+
 
 **Fun Facts About Me:**
 - 🚀 I turn ideas into production-ready applications
