@@ -123,6 +123,6 @@ I'm always open to collaborations, innovative ideas, and exciting opportunities.
 
 <div align="center">
 
-Made with ❤️ by Kurmapu Leelamohan | © 2025
+Made with ❤️ by Kurmapu Leelamohan | © 2026
 
 </div>
